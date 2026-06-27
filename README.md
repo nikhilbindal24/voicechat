@@ -1,2 +1,2 @@
 # voicechat
-It hears a voice a replies , currently it can answer 4-5 questions only 
+It hears a voice and then replies accordingly , currently it can answer 4-5 questions only 
